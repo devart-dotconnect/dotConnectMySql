@@ -1,8 +1,8 @@
-![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.MySql?color=informational&label=latest)![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.MySql?color=informational&label=installs&logo=nuget)![Build Status](https://img.shields.io/badge/build-%20%E2%9C%93%203158%20tests%20passed%20(0%20failed)%20-107C10?logo=visualstudio)[![Windows Compatibility](https://img.shields.io/badge/%E2%80%8E%20-%20%E2%9C%93-107C10?logo=windows)](https://www.devart.com/dotconnect/mysql/features.html?utm_source=github&utm_medium=referral&utm_campaign=mysql-examples&utm_content=topshield)[![macOS Compatibility](https://img.shields.io/badge/%E2%80%8E%20-%20%E2%9C%93-107C10?logo=apple)](https://www.devart.com/dotconnect/mysql/features.html?utm_source=github&utm_medium=referral&utm_campaign=mysql-examples&utm_content=topshield)[![Linux Compatibility](https://img.shields.io/badge/%E2%80%8E%20-%20%E2%9C%93-107C10?logo=linux&logoColor=white)](https://www.devart.com/dotconnect/mysql/features.html?utm_source=github&utm_medium=referral&utm_campaign=mysql-examples&utm_content=topshield)[![AWS Compatibility](https://img.shields.io/badge/%E2%80%8E%20-%20%E2%9C%93-107C10?logo=amazonaws)](https://www.devart.com/dotconnect/mysql/features.html?utm_source=github&utm_medium=referral&utm_campaign=mysql-examples&utm_content=topshield)[![Azure Compatibility](https://img.shields.io/badge/%E2%80%8E%20-%20%E2%9C%93-107C10?logo=microsoftazure)](https://www.devart.com/dotconnect/mysql/features.html?utm_source=github&utm_medium=referral&utm_campaign=mysql-examples&utm_content=topshield)
+[![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.MySql?color=informational&label=latest)](https://www.nuget.org/packages/Devart.Data.MySql) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.MySql?color=informational&label=Devart.Data.PostgreSQL&logo=nuget)](https://www.nuget.org/packages/Devart.Data.MySql) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.MySql.EFCore?color=informational&label=Devart.Data.PostgreSQL.EFCore&logo=nuget)](https://www.nuget.org/packages/Devart.Data.MySql.EFCore)
 
 ## .NET Connector for MySQL and MariaDB With ORM Support
 
-[![dotConnect](https://github.com/devart-connectivity/.github/blob/main/assets/dotconnect_mysql_cover_green)](hhttps://www.devart.com/dotconnect/mysql/)
+[![dotConnect](https://github.com/devart-connectivity/.github/blob/main/assets/dotconnect_mysql_cover_green.png)](https://www.devart.com/dotconnect/mysql/)
 
 [Get Started](https://www.devart.com/dotconnect/mysql/getting-started.html) | [Explore Features](https://www.devart.com/dotconnect/mysql/features.html) | [Documentation](https://docs.devart.com/dotconnect/mysql/GettingStarted.html)
 
@@ -18,8 +18,8 @@ Install-Package Devart.Data.MySql
 ```
 2. Activate license
 
-* **Free Trial License:** Evaluate the full capabilities of dotConnect for MySQL in a non-commercial environment—ideal for development and testing. [Start your free trial](https://)
-* **Commercial License:** Deploy dotConnect for MySQL in commercial applications and access full technical support with a valid license. [Purchase a license](https://)
+* **Free Trial License:** Evaluate the full capabilities of dotConnect for MySQL in a non-commercial environment—ideal for development and testing. [Start your free trial](https://secure.devart.com/licenses?product=dotconnect/mysql&source=activation)
+* **Commercial License:** Deploy dotConnect for MySQL in commercial applications and access full technical support with a valid license. [Purchase a license](https://www.devart.com/dotconnect/mysql/ordering.html)
 
 ### Overview
 ------------
